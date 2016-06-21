@@ -191,10 +191,10 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 1,
 		"inputAbbreviatedPath": "\/app.less",
-		"outputAbbreviatedPath": "\/Users\/mmesseng\/Sites\/sparkui2\/lib\/css\/app.css",
+		"outputAbbreviatedPath": "\/Users\/mmesseng\/Sites\/sparkui2\/lib\/css\/app.min.css",
 		"outputPathIsOutsideProject": 1,
 		"outputPathIsSetByUser": 1,
-		"outputStyle": 0,
+		"outputStyle": 1,
 		"relativeURLS": 0,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
@@ -890,7 +890,7 @@
 	},
 "projectAttributes": {
 	"bowerAbbreviatedPath": "",
-	"displayValue": "Spark 2",
+	"displayValue": "KendoStrap",
 	"displayValueWasSetByUser": 1,
 	"iconImageName": "compass_orange"
 	},
